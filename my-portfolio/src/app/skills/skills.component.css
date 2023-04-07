@@ -1,0 +1,10 @@
+ /* Skills section styles */
+  
+ #skills {
+    background-color: #fff;
+    padding: 4rem 0;
+  }
+  
+  #skills ul li {
+    margin-bottom: 1rem;
+  }

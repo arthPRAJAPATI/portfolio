@@ -1,6 +1,10 @@
 #experience {
-    background-color: #fff;
+  background: linear-gradient(90deg, rgba(250,144,72,1) 21%, rgba(236,106,88,1) 100%);
     padding: 80px 0;
+  }
+
+  .container {
+    -webkit-text-fill-color: aliceblue;
   }
   
   #experience h2 {

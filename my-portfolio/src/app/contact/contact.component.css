@@ -1,6 +1,10 @@
 #contact {
-    background-color: #f9f9f9;
+  background: linear-gradient(90deg, rgba(250,144,72,1) 21%, rgba(236,106,88,1) 100%);
     padding: 80px 0;
+  }
+  
+  .container {
+    -webkit-text-fill-color: aliceblue;
   }
   
   #contact h2 {
@@ -11,9 +15,10 @@
   }
   
   #contact form {
-    display: flex;
-    flex-direction: column;
+    display: block;
     align-items: center;
+    padding-left: 70px;
+    padding-right: 70px;
   }
   
   #contact .form-group {

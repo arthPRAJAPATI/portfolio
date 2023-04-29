@@ -1,6 +1,10 @@
 #education {
-    background-color: #f9f9f9;
+  background: linear-gradient(90deg, rgba(21,20,28,1) 78%, rgba(0,0,0,1) 100%);
     padding: 80px 0;
+  }
+
+  .container {
+    -webkit-text-fill-color: aliceblue;
   }
   
   #education h2 {

@@ -1,15 +1,42 @@
   /* About section styles */
   
   #about {
-    background-color: #f5f5f5;
+    background: linear-gradient(90deg, rgba(21,20,28,1) 78%, rgba(0,0,0,1) 100%);
     padding: 4rem 0;
   }
   
   #about img {
     max-width: 100%;
-    height: auto;
+    height: 300px;
     display: block;
     margin: 0 auto;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+
+  h1, h2, h3, p {
+  -webkit-text-fill-color: aliceblue;
+  }
+
+  #about h1, h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 50px;
+  }
+
+
+  #about h3 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  #about p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    max-width: 100%;
   }

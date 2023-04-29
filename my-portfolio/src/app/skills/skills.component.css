@@ -1,10 +1,31 @@
  /* Skills section styles */
   
  #skills {
-    background-color: #fff;
+    background: linear-gradient(90deg, rgba(250,144,72,1) 21%, rgba(236,106,88,1) 100%);;
     padding: 4rem 0;
   }
   
   #skills ul li {
     margin-bottom: 1rem;
+  }
+
+  h2, li {
+    -webkit-text-fill-color: aliceblue;
+  }
+
+  #skills h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 50px;
+  }
+
+  #skills li {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    list-style: none; /* Remove default bullets */
   }

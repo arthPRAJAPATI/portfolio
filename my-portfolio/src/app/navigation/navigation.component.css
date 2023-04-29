@@ -1,0 +1,32 @@
+#navigation{
+background: linear-gradient(90deg, rgba(250,144,72,1) 21%, rgba(236,106,88,1) 100%);
+padding: 10px 0;
+}
+
+.container {
+    -webkit-text-fill-color: aliceblue;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: transform .2s
+  }
+
+  li a:hover {
+    transform: scale(1.5); 
+  }

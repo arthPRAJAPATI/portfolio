@@ -1,0 +1,61 @@
+{
+    "Name": {
+        "First": "Arth",
+        "Last": "Prajapati"
+    },
+    "Description": "Software Engineer",
+    "Roadmap": [
+        {
+            "id": 1,
+            "year": "2018",
+            "title": "Started Computer Science Degree",
+            "description": "Began my Bachelor's in Computer Science at XYZ University."
+        },
+        {
+            "id": 2,
+            "year": "2020",
+            "title": "Internship at ABC Tech",
+            "description": "Worked as a Frontend Developer Intern and built responsive web apps."
+        },
+        {
+            "id": 3,
+            "year": "2021",
+            "title": "First Open Source Contribution",
+            "description": "Contributed to open-source projects and became active on GitHub."
+        },
+        {
+            "id": 4,
+            "year": "2022",
+            "title": "Joined DEF Corp as Software Engineer",
+            "description": "Worked on full-stack applications using React, Next.js, and Node.js."
+        },
+        {
+            "id": 5,
+            "year": "2023",
+            "title": "Launched Personal Portfolio",
+            "description": "Built a modern portfolio showcasing projects and blogs."
+        }
+    ],
+    "Skills": [
+        {
+            "title": "Languages & Frameworks",
+            "description": "Java, Spring, Vue.js, Babylon.js, JavaScript, Hibernate, TypeScript, Node.js, Redux, Express.js"
+        },
+        {
+            "title": "Backend & Databases",
+            "description": "MongoDB, SQL, NoSQL, XML"
+        },
+        {
+            "title": "Testing & Deployment",
+            "description": "CI/CD, Ansible, Unit Testing"
+        },
+        {
+            "title": "Version Control & Tools",
+            "description": "Git, Docker, Kubernetes"
+        },
+        {
+            "title": "Certifications",
+            "description": "AWS Academy Graduate - AWS Academy Cloud Architecting"
+        }
+    ]
+}
